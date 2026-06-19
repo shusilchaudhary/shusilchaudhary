@@ -17,7 +17,7 @@ Passionate about building scalable web applications, modern UI/UX, REST APIs, an
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://x.com/ShusilC12h22o11">
+  <a href="https://x.com/shusil_dev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
